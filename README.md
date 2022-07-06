@@ -6,3 +6,4 @@
 Para el repositorio vamos a utilizar la base de datos de kanggle que habla sobre el precio de las viviendad, al cual se puede acceder respecto al siguiente link: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 # Comandos
 # Vídeos 
+[PROYECTO_ENTREGA_1.pdf](https://github.com/briasaid/Proyecto_Precio_Casa/files/9051186/PROYECTO_ENTREGA_1.pdf)
